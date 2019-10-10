@@ -1,5 +1,6 @@
  
 require 'nokogiri'
+require 'pry'
 require 'open-uri'
 
 def dark_trader
